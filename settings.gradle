@@ -1,0 +1,5 @@
+include ':c07_01_List_Services'
+include ':c07_02_Service_Notify'
+include ':c07_03_Service_MediaPlayer'
+include ':c07_04_BindService'
+include ':c07_05_Flipper'

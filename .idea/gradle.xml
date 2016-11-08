@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/c07_01_List_Services" />
+            <option value="$PROJECT_DIR$/c07_02_Service_Notify" />
+            <option value="$PROJECT_DIR$/c07_03_Service_MediaPlayer" />
+            <option value="$PROJECT_DIR$/c07_04_BindService" />
+            <option value="$PROJECT_DIR$/c07_05_Flipper" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
